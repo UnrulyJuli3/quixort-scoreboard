@@ -1,0 +1,12 @@
+@import url(./assets/fonts/stylesheet.css);
+
+body {
+    margin: 0;
+    background: url(./assets/lines.png) repeat center, url(./assets/grid.png) repeat center / 40px, linear-gradient(-45deg, #0000, #8b3294, #0000) fixed, #42318f;
+}
+
+* {
+    box-sizing: border-box;
+    line-height: 1;
+    font-family: "Torus Pro";
+}

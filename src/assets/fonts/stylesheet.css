@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Torus Pro';
+    src: url('TorusProHeavy.woff2') format('woff2'),
+        url('TorusProHeavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Torus Pro';
+    src: url('TorusProSemiBold.woff2') format('woff2'),
+        url('TorusProSemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
