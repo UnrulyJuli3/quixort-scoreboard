@@ -11,6 +11,7 @@ export default defineComponent({
             type: Object as PropType<{
                 name: string;
                 score: number;
+                type: string;
             }>,
             required: true
         }
@@ -19,7 +20,7 @@ export default defineComponent({
 </script>
 
 <template>
-    <tr>
+    <tr :class="info.type">
         <td class="rank">{{ index + 1 }}.</td>
         <td class="score">{{ info.score.toLocaleString("en-US") }}</td>
         <td class="name">{{ info.name }}</td>
@@ -28,7 +29,21 @@ export default defineComponent({
 
 <style scoped lang="scss">
 tr {
-    color: #fff;
+    &.default {
+        color: #fff;
+    }
+
+    &.solo {
+        color: #ff7900;
+    }
+
+    &.team-one {
+        color: #db268c;
+    }
+
+    &.team-two {
+        color: #3ea6fb;
+    }
 
     &>td {
         &.rank {
