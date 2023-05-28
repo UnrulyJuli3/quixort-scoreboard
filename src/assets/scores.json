@@ -1,290 +1,362 @@
 [
     {
         "name": "Circus Dad",
-        "score": 139400
+        "score": 139400,
+        "reference": "Character from Quixort's original teaser trailer"
     },
     {
         "name": "M.O.T.H.E.R.",
-        "score": 132700
+        "score": 132700,
+        "reference": "Host of Earwax"
     },
     {
         "name": "Deborah Sugarbaker",
-        "score": 126250
+        "score": 126250,
+        "reference": "Host of a secret ending from Trivia Murder Party 2"
     },
     {
         "name": "Gene",
-        "score": 120050
+        "score": 120050,
+        "reference": "Stand-in computer player, cameos in Survive The Internet, Mad Verse City, Patently Stupid, Joke Boat, and others"
     },
     {
         "name": "Shadow Master MC",
-        "score": 114000
+        "score": 114000,
+        "reference": "One of two hosts of Mad Verse City"
     },
     {
         "name": "Schmitty",
-        "score": 108250
+        "score": 108250,
+        "reference": "Host of Quiplash series and classic YDKJ host"
     },
     {
         "name": "Toby",
-        "score": 102650
+        "score": 102650,
+        "reference": "One of two hosts of Patently Stupid"
     },
     {
         "name": "Nikolas Knackalus",
-        "score": 97200
+        "score": 97200,
+        "reference": "Host of Junktopia"
     },
     {
         "name": "Tim Simeon",
-        "score": 95300
+        "score": 95300,
+        "reference": "Reference to Tim Simeon Ape Mechanic a YDKJ commercial; also cameos in Patently Stupid and the Devils and the Details"
     },
     {
         "name": "Todd",
-        "score": 92150
+        "score": 92150,
+        "reference": "Host of Survive The Internet"
     },
     {
         "name": "D.O.D.E.",
-        "score": 87100
+        "score": 87100,
+        "reference": "Host of Push The Button"
     },
     {
         "name": "Devil Mom",
-        "score": 82450
+        "score": 82450,
+        "reference": "Playable character in the Devils and the Details"
     },
     {
         "name": "Lord Tippet",
-        "score": 77900
+        "score": 77900,
+        "reference": "Secondary host of Weapons Drawn"
     },
     {
         "name": "[REDACTED]",
-        "score": 73500
+        "score": 73500,
+        "reference": "Host of Trivia Murder Party series"
     },
     {
         "name": "Jack Patterson",
-        "score": 71750
+        "score": 71750,
+        "reference": "Host of That's A Fact, Jack!"
     },
     {
         "name": "The Faker",
-        "score": 69350
+        "score": 69350,
+        "reference": "Character from Fakin' It"
     },
     {
         "name": "Grandma Pazuzu",
-        "score": 66600
+        "score": 66600,
+        "reference": "Character from an episode of the Devils and the Details"
     },
     {
         "name": "The Tournament Master",
-        "score": 65300
+        "score": 65300,
+        "reference": "Host of Tee K.O."
     },
     {
         "name": "Buzz Lippman",
-        "score": 61500
+        "score": 61500,
+        "reference": "Classic YDKJ host"
     },
     {
         "name": "The Keeper",
-        "score": 57800
+        "score": 57800,
+        "reference": "Host of Dictionarium"
     },
     {
         "name": "PartyBoy7",
-        "score": 55150
+        "score": 55150,
+        "reference": "Tutorial host of Survive The Internet"
     },
     {
         "name": "Wampus",
-        "score": 54350
+        "score": 54350,
+        "reference": "Family cat from the Devils and the Details"
     },
     {
         "name": "Orange Hair Man",
-        "score": 52050
+        "score": 52050,
+        "reference": "Character from Fakin' It"
     },
     {
         "name": "Helen",
-        "score": 51050
+        "score": 51050,
+        "reference": "Classic YDKJ character"
     },
     {
         "name": "The Wheel",
-        "score": 47850
+        "score": 47850,
+        "reference": "Host of the Wheel of Enormous Proportions"
     },
     {
         "name": "Aunt Hecuba",
-        "score": 45550
+        "score": 45550,
+        "reference": "Unknown"
     },
     {
         "name": "Cookie Masterson",
-        "score": 44800
+        "score": 44800,
+        "reference": "Host of YDKJ series, Fakin' It, and others"
     },
     {
         "name": "Narrator",
-        "score": 41950
+        "score": 41950,
+        "reference": "Primary host of Weapons Drawn"
     },
     {
         "name": "Agent Harris",
-        "score": 40400
+        "score": 40400,
+        "reference": "Dolphin avatar from Guesspionage"
     },
     {
         "name": "Trevor",
-        "score": 39100
+        "score": 39100,
+        "reference": "Old Man's father, character from Bomb Corp., cameos in Trivia Murder Party 2"
     },
     {
         "name": "M. Bubbles",
-        "score": 36550
+        "score": 36550,
+        "reference": "Host of Job Job"
     },
     {
         "name": "Ira Pudless",
-        "score": 35050
+        "score": 35050,
+        "reference": "Unknown"
     },
     {
         "name": "Mayonnaise",
-        "score": 34000
+        "score": 34000,
+        "reference": "Host of Split The Room, one of Cookie's cats"
     },
     {
         "name": "Octaputtz",
-        "score": 32600
+        "score": 32600,
+        "reference": "Host of Word Puttz, an ancient Jackbox mobile game; the correct spelling is 'Octoputtz'"
     },
     {
         "name": "Rue Meringue",
-        "score": 31700
+        "score": 31700,
+        "reference": "Host of Roomerang"
     },
     {
         "name": "Xenora",
-        "score": 30200
+        "score": 30200,
+        "reference": "Classic YDKJ commercial character"
     },
     {
         "name": "Laverne Caverne",
-        "score": 29550
+        "score": 29550,
+        "reference": "Host of the Poll Mine"
     },
     {
         "name": "Lena",
-        "score": 27350
+        "score": 27350,
+        "reference": "One of two hosts of Patently Stupid"
     },
     {
         "name": "Ray",
-        "score": 26050
+        "score": 26050,
+        "reference": "Unknown"
     },
     {
         "name": "Captain Chuck Hull",
-        "score": 25200
+        "score": 25200,
+        "reference": "Host of Joke Boat"
     },
     {
         "name": "Raul",
-        "score": 24800
+        "score": 24800,
+        "reference": "Classic YDKJ sign-in host"
     },
     {
         "name": "Mr. Getti",
-        "score": 23350
+        "score": 23350,
+        "reference": "One of Chase's cats and the inspiration for Wampus (Chase = Jackbox Games employee)"
     },
     {
         "name": "Ubernostrum",
-        "score": 22450
+        "score": 22450,
+        "reference": "Classic YDKJ commercial product"
     },
     {
         "name": "Demon Relocation Specialist",
-        "score": 21500
+        "score": 21500,
+        "reference": "Host of the Devils and the Details"
     },
     {
         "name": "Mr. Sticky Buddy",
-        "score": 20250
+        "score": 20250,
+        "reference": "Unknown"
     },
     {
         "name": "DJ Raych",
-        "score": 19750
+        "score": 19750,
+        "reference": "One of two hosts of Mad Verse City"
     },
     {
         "name": "Chloe Phartle",
-        "score": 18900
+        "score": 18900,
+        "reference": "Unknown"
     },
     {
         "name": "Guy Towers",
-        "score": 18000
+        "score": 18000,
+        "reference": "Classic YDKJ host"
     },
     {
         "name": "Agent Squawkington",
-        "score": 16850
+        "score": 16850,
+        "reference": "Eagle avatar from Guesspionage"
     },
     {
         "name": "Warren",
-        "score": 16500
+        "score": 16500,
+        "reference": "Jackbox Games employee"
     },
     {
         "name": "Glargan O'Toe",
-        "score": 15050
+        "score": 15050,
+        "reference": "Host of Zeeple Dome"
     },
     {
         "name": "Devil Dad",
-        "score": 13600
+        "score": 13600,
+        "reference": "Playable character in the Devils and the Details"
     },
     {
         "name": "Shelly Merkin",
-        "score": 12650
+        "score": 12650,
+        "reference": "Unknown"
     },
     {
         "name": "Professor Nanners",
-        "score": 12350
+        "score": 12350,
+        "reference": "Host of Nonsensory"
     },
     {
         "name": "Oinky the Puffy Pig",
-        "score": 12000
+        "score": 12000,
+        "reference": "Unknown"
     },
     {
         "name": "Nate Shapiro",
-        "score": 10900
+        "score": 10900,
+        "reference": "Classic YDKJ host"
     },
     {
         "name": "Billy O'Brien",
-        "score": 9650
+        "score": 9650,
+        "reference": "Classic YDKJ character"
     },
     {
         "name": "Golphin the Gray",
-        "score": 8900
+        "score": 8900,
+        "reference": "A proposed host of Word Puttz, an ancient Jackbox mobile game"
     },
     {
         "name": "Felicia",
-        "score": 8450
+        "score": 8450,
+        "reference": "Host of Monster Seeking Monster"
     },
     {
         "name": "Nate the Intern",
-        "score": 8050
+        "score": 8050,
+        "reference": "Classic YDKJ character"
     },
     {
         "name": "Hoodie Devil",
-        "score": 7900
+        "score": 7900,
+        "reference": "Playable character in the Devils and the Details"
     },
     {
         "name": "Baby Diva",
-        "score": 7100
+        "score": 7100,
+        "reference": "Classic YDKJ sign-in host"
     },
     {
         "name": "Dot",
-        "score": 6250
+        "score": 6250,
+        "reference": "Host of Drawful series"
     },
     {
         "name": "Donny",
-        "score": 5950
+        "score": 5950,
+        "reference": "Classic YDKJ character"
     },
     {
         "name": "Greg",
-        "score": 5200
+        "score": 5200,
+        "reference": "Host of Bomb Corp."
     },
     {
         "name": "Alfie Bup",
-        "score": 4600
+        "score": 4600,
+        "reference": "One of Chase's cats (Chase = Jackbox Games employee)"
     },
     {
         "name": "Kent",
-        "score": 4050
+        "score": 4050,
+        "reference": "Dog character from Bomb Corp."
     },
     {
         "name": "Meegan",
-        "score": 3650
+        "score": 3650,
+        "reference": "Character from Bomb Corp."
     },
     {
         "name": "Chocky the Chipmunk",
-        "score": 3150
+        "score": 3150,
+        "reference": "Classic YDKJ commercial character"
     },
     {
         "name": "Manatee",
-        "score": 2950
+        "score": 2950,
+        "reference": "A proposed host of Word Puttz, an ancient Jackbox mobile game"
     },
     {
         "name": "Old Man",
-        "score": 2200
+        "score": 2200,
+        "reference": "Classic YDKJ character, secondary host of Civic Doodle (the mayor of Doodle Valley)"
     },
     {
         "name": "A Potato",
-        "score": 1050
+        "score": 1050,
+        "reference": "None"
     }
 ]

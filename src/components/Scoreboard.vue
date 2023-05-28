@@ -49,9 +49,9 @@ interface LineupBlob {
 
 export default defineComponent({
     data(): {
-        defaultScores: { name: string; score: number; }[];
+        defaultScores: { name: string; score: number; reference: string; }[];
         fetching: boolean;
-        userScores: { name: string; score: number; type: string; }[];
+        userScores: { name: string; score: number; reference: string; type: string; }[];
         url: string;
     } {
         return {
@@ -125,12 +125,14 @@ export default defineComponent({
                     this.userScores.push({
                         name: team.players.length >= 3 ? `TEAM ${team.players[0]}` : team.players.join(" & "),
                         score: team.score,
+                        reference: "None",
                         type: "solo"
                     });
                 } else {
                     blob.teams.forEach((team, index) => this.userScores.push({
                         name: team.name,
                         score: team.score,
+                        reference: "None",
                         type: ["team-one", "team-two"][index]
                     }));
                 }
@@ -145,6 +147,7 @@ export default defineComponent({
             return this.defaultScores.map(entry => ({
                 name: entry.name,
                 score: entry.score,
+                reference: entry.reference,
                 type: "default"
             })).concat(this.userScores).sort((a, b) => b.score - a.score);
         }
@@ -166,11 +169,12 @@ export default defineComponent({
         <img :draggable="false" src="../assets/logo.png" />
     </div>
     <div class="custom">
-        <div class="text">Enter a Quixort gallery URL to see your score(s) on this scoreboard:</div>
+        <div class="text">Enter a Quixort gallery URL to see your score(s) on this scoreboard:<br>(You may need to press Enter)</div>
         <form @submit.prevent="submit">
             <input v-model="url" type="text" placeholder="https://games.jackbox.tv/LineupGame/&#x2026;"
                 maxlength="100" />
         </form>
+        <div class="instructions">Click on a name below to see what it's a reference to</div>
     </div>
     <div class="board">
         <table class="list">
@@ -198,7 +202,7 @@ export default defineComponent({
 .custom {
     width: 500px;
     max-width: 100%;
-    padding: 20px;
+    padding: 20px 20px 0;
     margin: 0 auto;
 
     &>.text {
@@ -223,6 +227,13 @@ export default defineComponent({
             color: #fff;
             opacity: 0.5;
         }
+    }
+
+    &>.instructions {
+        text-align: left;
+        color: #fff;
+        font-size: 22px;
+        margin: 40px 0 0;
     }
 }
 
